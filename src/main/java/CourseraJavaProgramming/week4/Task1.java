@@ -250,33 +250,7 @@ public class Task1 {
         //task1.yearOfHighestRank("Beka", "M");
         //task1.getAverageRank("Jacob", "M");
         //task1.getTotalBirthsRankedHigher(2013, "William", "M");
-        //1 2225
-        //task1.numberOfNames("F");
-        //2 1421
-        //task1.numberOfNames("M");
-        //3 251
-        //task1.getRank(1960, "Emily", "F");
-        //4 54
-        //task1.getRank(1971, "Frank", "M");
-        //5 Mia
-        //task1.getName(1980, 350, "F");
-        //6 Forrest
-        //task1.getName(1982, 450, "M");
-        //7 Addison
-        //task1.whatIsNameInYear("Susan", 1972, 2014, "F");
-        //8 Cinch x Leonel
-        //task1.whatIsNameInYear("Owen", 1974, 2014, "M");
-        //9 76th x year!!! 1914
-        //task1.yearOfHighestRank("Genevieve", "F");
-        //10 3546th x year!!! 1960
-        //task1.yearOfHighestRank("Mich", "M");
-        //11 2947.01 x 173.51
-        //task1.getAverageRank("Susan", "F");
-        //12 5.37 x 10.75
-        //task1.getAverageRank("Robert", "M");
-        //13 276734 x 323200
-        //task1.getTotalBirthsRankedHigher(1990, "Emily", "F");
-        //14 1498074
+        
         task1.getTotalBirthsRankedHigher(1990, "Drew", "M");
     }
 }
